@@ -1,0 +1,5 @@
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\bin\Release\DatedSubFolderMover.exe.config
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\bin\Release\DatedSubFolderMover.exe
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\bin\Release\DatedSubFolderMover.pdb
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\obj\Release\DatedSubFolderMover.exe
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\obj\Release\DatedSubFolderMover.pdb

@@ -1,0 +1,6 @@
+c:\users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\bin\Debug\DatedSubFolderMover.exe.config
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\bin\Debug\DatedSubFolderMover.exe
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\bin\Debug\DatedSubFolderMover.pdb
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\obj\Debug\DatedSubFolderMover.csprojResolveAssemblyReference.cache
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\obj\Debug\DatedSubFolderMover.exe
+C:\Users\sandn\documents\visual studio 2015\Projects\DatedSubFolderMover\DatedSubFolderMover\obj\Debug\DatedSubFolderMover.pdb
